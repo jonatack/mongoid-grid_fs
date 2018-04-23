@@ -10,16 +10,13 @@ before_install:
 cache: bundler
 
 rvm:
-  - 2.3.6
+  - 2.5.1
 
 gemfile:
   - gemfiles/mongoid-3.1.gemfile
   - gemfiles/mongoid-4.0.gemfile
   - gemfiles/mongoid-5.0.gemfile
   - gemfiles/mongoid-6.0.gemfile
-
-before_script:
-  - bundle exec danger
 
 env:
   global:
