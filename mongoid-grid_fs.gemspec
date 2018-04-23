@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.platform     = Gem::Platform::RUBY
   spec.summary      = 'A MongoDB GridFS implementation for Mongoid'
   spec.description  = 'A pure Mongoid/Moped implementation of the MongoDB GridFS specification'
-  spec.homepage     = 'https://github.com/ahoward/mongoid-grid_fs'
+  spec.homepage     = 'https://github.com/mongoid/mongoid-grid_fs'
   spec.license      = 'Ruby'
 
   spec.files        = Dir['{lib}/**/*'] + ['LICENSE', 'Rakefile', 'README.md']
