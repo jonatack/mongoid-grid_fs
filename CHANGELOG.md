@@ -3,7 +3,8 @@
 * [#61](https://github.com/mongoid/mongoid-grid_fs/pull/61): Mongoid 6 support - [@laCour](https://github.com/laCour).
 * [#65](https://github.com/mongoid/mongoid-grid_fs/pull/65): Add Danger (pull request linter) - [@dblock](https://github.com/dblock).
 * [#64](https://github.com/mongoid/mongoid-grid_fs/pull/64): Add Rubocop (Ruby style linter) - [@dblock](https://github.com/dblock).
-* [#69](https://github.com/mongoid/mongoid-grid_fs/pull/69): Make Rubocop and Travis CI run again. Remove the Danger gem. - [@jonatack](https://github.com/jonatack).
+* [#1](https://github.com/mongoid/mongoid-grid_fs/pull/1): Make Rubocop and Travis CI run again. Remove annoying Danger gem. - [@jonatack](https://github.com/jonatack).
+* [#2](https://github.com/mongoid/mongoid-grid_fs/pull/2): Mongoid 7 support - [@jonatack](https://github.com/jonatack).
 * Your contribution here.
 
 ### 2.2.2 (2016/06/13)
